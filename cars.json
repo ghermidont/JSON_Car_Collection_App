@@ -1,0 +1,7 @@
+{
+  "Mercedes":["Mercedes", 2010,"black",20.000 ],
+  "BMW":[ "BMW", 2018, "red", 80.000 ],
+  "Ford":[ "Ford", 2002, "white", 3.000 ],
+  "Jaguar":[ "Jaguar", 1991, "black", 50.000 ],
+  "Renault":[ "Renault", 2011, "gold", 12.000 ]
+}
